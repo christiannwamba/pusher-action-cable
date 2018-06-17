@@ -1,6 +1,8 @@
 # Adding Realtime Functionality to Rails Application 
 
-This is a demo application showing how to Add Realtime Functionality to your Rails application by using either Action Cable or Pusher. You can read about how it was created [ on Pushers's blog ](https://blog.pusher.com/author/chris-nwamba)
+This is a demo application showing how to Add Realtime Functionality to your Rails application by using either Action Cable or Pusher. 
+
+[View tutorial](https://pusher.com/tutorials/comments-app-ruby-rails)
 
 <img src="demo/demo.gif">
 
